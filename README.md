@@ -18,15 +18,15 @@ Ocean Temperature based on the Ocean Salinity.
 
 <p align="center">
   <img width="45%" src="https://github.com/RichaShama/Regression-Analysis/blob/main/TempVsSalinity_trainingmodel.png" alt></p>
-  <p  align="center"> <em>Simple Linear Regression.</em>
+  <p  align="center"> <em>Simple Linear Regression training model.</em>
 </p> 
 <p align="center">
   <img width="45%" src="https://github.com/RichaShama/Regression-Analysis/blob/main/TempVsSalinity_testmodel.png" alt></p>
-  <p  align="center"> <em>Polynomial Linear Regression.</em>
+  <p  align="center"> <em>Simple Linear Regression test model.</em>
 </p>
 <p align="center">
   <img width="65%" src="https://github.com/RichaShama/Regression-Analysis/blob/main/TempVsSalinity-polynomial.png" alt></p>
-  <p  align="center"> <em>Number of tweets in test dataset.</em>
+  <p  align="center"> <em>Polynomial Linear Regression.</em>
 </p>
 
 
